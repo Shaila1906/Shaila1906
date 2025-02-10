@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shaila Akter!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Postman for API testing.
+- 🌱 I’m currently learning Postman for API testing & Selenium.
 - 🔭 I’m currently working on a WebdriverIO project(for learning purpose)
 - 👯 I’m looking For a job as a SQA engineer
 - 💬 Ask me about **Manual Testing**, **automation frameworks, WebdriverIO**, and setting up testing projects.
