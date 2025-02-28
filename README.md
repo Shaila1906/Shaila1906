@@ -8,10 +8,10 @@
 - 📫 How to reach me: E-mail: shailarima1999@gmail.com | LinkedIn: www.linkedin.com/in/shailaakter99
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: JavaScript, Python, C++, JAVA
-- **Frameworks & Libraries**: WebdriverIO, Node.js
-- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman
-- **Platforms**: Windows
+- **Programming Languages**: JavaScript, JAVA, Python, C++
+- **Frameworks & Libraries**: WebdriverIO, Node.js, TestNG, Playwright, Selenium 
+- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, JIRA, Newman
+- **Platforms**: Windows, Linux 
 
 ## 🏆 Certifications
 - Completed a comprehensive course on **automation testing with WebdriverIO**.
