@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shaila Akter!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Postman for API testing & Selenium.
+- 🌱 I’m currently learning security testing using OWASP ZAP & performance testing using JMeter.
 - 🔭 I’m currently working on a WebdriverIO project(for learning purpose)
 - 👯 I’m looking For a job as a SQA engineer
 - 💬 Ask me about **Manual Testing**, **automation frameworks, WebdriverIO**, and setting up testing projects.
@@ -10,7 +10,7 @@
 ## 🛠️ Technologies & Tools
 - **Programming Languages**: JavaScript, JAVA, Python, C++
 - **Frameworks & Libraries**: WebdriverIO, Node.js, TestNG, Playwright, Selenium 
-- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, JIRA, Newman
+- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, JIRA, Newman, JMeter
 - **Platforms**: Windows, Linux 
 
 ## 🏆 Certifications
