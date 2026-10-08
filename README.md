@@ -10,6 +10,7 @@
 - **Programming Languages**: JavaScript, JAVA, Python, C++
 - **Frameworks & Libraries**: Cypress, WebdriverIO, Node.js, TestNG, Playwright, Selenium 
 - **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, MantisBT, JIRA, Newman, JMeter, OWASP ZAP, Trello, GitLab
+- **AI Assisted Coding/Testing**: Claude Code, Z.ai
 - **Platforms**: Windows, Linux 
 
 ## 🏆 Certifications
