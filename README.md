@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Shaila Akter!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning K6 for Performance testing.
-- 🔭 I’m currently working on a Cypress project(for a fintech app)
-- 👯 I’m looking For a job as a SQA engineer
-- 💬 Ask me about **Manual Testing**, **automation frameworks, WebdriverIO**, and setting up testing projects.
+- 🔭 I’m currently working on a Cypress project(for a fintech app/ Core Banking Software)
+- 👯 I’m looking For a job as a SQA/Automation engineer
+- 💬 Ask me about **Manual Testing**, **automation frameworks, Cypress, WebdriverIO**, and setting up testing projects.
 - 📫 How to reach me: E-mail: shailarima1999@gmail.com | LinkedIn: www.linkedin.com/in/shailaakter99
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**: JavaScript, JAVA, Python, C++
-- **Frameworks & Libraries**: WebdriverIO, Node.js, TestNG, Playwright, Selenium, Cypress 
-- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, JIRA, Newman, JMeter, OWASP ZAP, Trello, GitLab
+- **Frameworks & Libraries**: Cypress, WebdriverIO, Node.js, TestNG, Playwright, Selenium 
+- **Tools**: Git, Visual Studio Code, Selenium WebDriver, Postman, MantisBT, JIRA, Newman, JMeter, OWASP ZAP, Trello, GitLab
 - **Platforms**: Windows, Linux 
 
 ## 🏆 Certifications
