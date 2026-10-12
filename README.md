@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Shaila Akter!
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a Cypress project(for a fintech app/ Core Banking Software)
+- 🌱 I’m currently learning Karate DSL for API test automation.
+- 🔭 I’m currently working on a Cypress project and CI/CD integration to that to streamline test execution(for a fintech app/ Core Banking Software)
 - 👯 I’m looking For a job as a SQA/Automation engineer
 - 💬 Ask me about **Manual Testing**, **automation frameworks, Cypress, WebdriverIO**, and setting up testing projects.
 - 📫 How to reach me: E-mail: shailarima1999@gmail.com | LinkedIn: www.linkedin.com/in/shailaakter99
